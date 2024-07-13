@@ -1,0 +1,104 @@
+
+
+.open-sans-normal {
+  font-family: "Open Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+nav ul li{ 
+    list-style: none;
+    margin-right: 50px;
+}
+
+/* nav styles*/
+nav{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 200px;
+}
+
+/*shared style*/
+.text-praimary{
+            color: #FD6E0A;
+}
+.btn-praimary{
+        background-color:pink;
+        color: black;
+        border: none;
+        padding: 10px 20px;
+        border-radius: 3px;
+}
+/* header*/
+.header{
+        background-image:url('img/Hero-bg.png');
+        
+}
+.banner-profile-pic{
+    max-width: 580;
+
+}
+
+}
+.banner{
+    display: flex;
+}
+/*main style*/
+main{
+    max-width: 1140px;
+    margin: 0  auto;
+}
+
+
+
+/*why style*/
+.why{
+    border-radius: 10px;
+    padding: 130px  150px;
+    text-align: center;
+}
+.Layer{
+    position: relative;       
+    display: flex;
+}
+div-font-title{
+            position-anchor: ;
+            display: flex;
+}
+div Layer{
+        position: right;
+        display: flex;
+}
+/*video shared*/
+div video{
+        height: 350px;
+        width: 650px;
+        display: flex;
+        align-items: center;
+}
+div terget{
+        display: inline-block;
+        display: flex;
+}
+footer div img{
+    height: 250px;
+    width: 900px;
+    display: flex;
+    
+}
+div banner-2-wallpaper-pic{
+    content: left;
+}
+
+.footer btn-2-praimary{
+    background-color:pink;
+}
+
+
+
+
+
+
